@@ -17,7 +17,7 @@ Proyek ini adalah sistem pembayaran digital sederhana untuk kantin di **Institut
 ---
 
 ### 👤 Identitas Pembuat
-* **Nama:** Frisca Aulia
-* **NIM:** 04221001
-* **Program Studi:** Sistem Informasi
+* **Nama:** Frisca Aulia Wibisono
+* **NIM:** 04221035
+* **Program Studi:** TEKNIK ELEKTRO
 * **Kampus:** Institut Teknologi Kalimantan
